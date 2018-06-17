@@ -1,12 +1,10 @@
-## Welcome to GitHub Pages
+## PlanetCs
 
-You can use the [editor on GitHub](https://github.com/hardikmahant/Code4Fun/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This repository is part of PlanetCS.org. You can find problem solving questions, java, html, css, js, shell scriptiong and other computer science related programs. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Services
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+We provide training for interview preparation, data structures, java programming, enterprise technologies and software engineering at all levels, whether you are a beginner or advanced level.
 
 ```markdown
 Syntax highlighted code block
