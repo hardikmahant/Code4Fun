@@ -5,9 +5,8 @@
     - Recurse
 
 - Definition: A process in which a method invokes itself repeatedly to accomplish a bigger task.
-    -      | 1            ,if n = 0
-    - n! = |
-    -      | n * (n-1)    ,if n >= 1
+    - n! = n * (n-1), if n >= 1
+    - 1 , if n = 0
 
 - Examples of recursion
     - Factorial function
