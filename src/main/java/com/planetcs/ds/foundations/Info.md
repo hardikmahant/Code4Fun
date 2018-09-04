@@ -8,7 +8,7 @@
     - n! = n * (n-1), if n >= 1
     - 1 , if n = 0
 
--
+<br>
     <table style="color:red">
         <th>Examples of recursion</th>
         <tr><td>Factorial function</td></tr>
