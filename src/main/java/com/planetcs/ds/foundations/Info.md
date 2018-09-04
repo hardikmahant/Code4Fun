@@ -9,7 +9,7 @@
     - 1 , if n = 0
 
 -
-    <table>
+    <table style="color:red">
         <th>Examples of recursion</th>
         <tr><td>Factorial function</td></tr>
         <tr><td>English ruler</tr></td>
